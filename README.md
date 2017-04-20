@@ -8,3 +8,7 @@
 ](https://www.youtube.com/watch?v=sJFuMKPfpfs)
 * [An Intro To Electron - Desktop Apps with JavaScript
 ](https://www.youtube.com/watch?v=mr9Mtm_TRpw)
+
+
+# Example Applications
+* [Simple TODO](https://github.com/Vj3k0/ea-todo)
